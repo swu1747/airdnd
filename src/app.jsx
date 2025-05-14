@@ -2,7 +2,7 @@ import React from "react";
 import Carousel from "./component/carousel.jsx";
 
 const App = () => {
-    return (<div><>ssss</>
+    return (<div>
     <Carousel/>
     </div>)
 }
