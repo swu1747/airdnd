@@ -5,7 +5,7 @@ import { styled } from "@mui/system";
 const MyCarousel = styled(Container)({
     position:'relative',
     height: '400px',
-    width: '500px',
+    width: '550px',
     overflow: 'hidden',
     '&:hover .arrow': {
         display:'block'
