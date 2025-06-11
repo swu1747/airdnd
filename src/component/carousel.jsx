@@ -18,10 +18,10 @@ const Carousel = () => {
                     <img width={'500px'} object-fit='contain' height='300px' src='img/Screen Shot 2024-08-01 at 12.18.26 PM.png' alt="" />
                 </Box>
                 <Box >
-                    <img width={'500px'} height='300px' src='img/Screen Shot 2024-08-01 at 12.18.26 PM.png' alt="" />
+                    <img width={'500px'} object-fit='contain' height='300px' src='img/Screen Shot 2024-08-01 at 12.18.26 PM.png' alt="" />
                 </Box>
                 <Box >
-                    <img width={'500px'} height='300px' src='img/Screen Shot 2024-08-01 at 12.18.26 PM.png' alt="" />
+                    <img width={'500px'} object-fit='contain' height='300px' src='img/Screen Shot 2024-08-01 at 12.18.26 PM.png' alt="" />
                 </Box>
             </MyCardList>
             <MyArrow className="arrow" onClick={arrhandler}>
